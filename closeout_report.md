@@ -1,7 +1,8 @@
 # Project Close-Out Report
 
 ## Project Details
-- **Name of Project and Project URL on IdeaScale/Fund**: P2P-DeFi Protocols: Continued Development
+- **Name of Project**: P2P-DeFi Protocols: Continued Development
+- **Project URL on IdeaScale/Fund**: https://projectcatalyst.io/funds/11/cardano-use-cases-solution/p2p-defi-protocols-continued-development
 - **Project Number**: 1100226
 - **Name of Project Manager**: Fallen-Icarus
 - **Date Project Started**: March 2024
