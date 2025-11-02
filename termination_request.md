@@ -1,4 +1,4 @@
-**Subject:** Request for Termination of Catalyst Grant – Project ID 1100225  
+**Subject:** Project Cancellation Statement – Project ID 1100225  
 
 **Name of Project Manager:** Fallen-Icarus - Protocol Architect  
 **Project Title:** P2P-DeFi Protocols: Cardano-Loans  
@@ -14,6 +14,11 @@ As previously noted by Catalyst Fund11 Operators, the deliverables and scope of 
 
 - **Project 1100225 (this project):** https://milestones.projectcatalyst.io/projects/1100225  
 - **Project 1100226 (completed, overlapping):** https://milestones.projectcatalyst.io/projects/1100226  
+
+This project's outputs (overlapping with a broader set of outputs from 1100226) can be found here: https://github.com/fallen-icarus/cardano-loans
+
+**Comparison of Expected vs Achieved Outcomes**
+All deliverables (as per the approved milestones) of this project were already delivered as a subset of the deliverables for project 1100226, hence the overlap. All expected outcomes were achieved, just part of a separate project. All funds thus recieved for this project are being used to fund formal security audits of the core protocols.
 
 Project 1100226 has been **fully delivered, closed out, and marked as complete** in the Catalyst milestones portal. Continuing work on 1100225 would result in redundant effort, unnecessary expenditure of treasury funds, and potential non-compliance with Catalyst’s rules against duplicate funding for identical outcomes.   
 
